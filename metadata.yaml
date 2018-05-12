@@ -1,0 +1,41 @@
+_repo: Le-renard_17509
+_version: 0.1.0
+alternative_title: Reineke Fuchs
+contributor:
+  translator:
+    agent_name: Grenier, Édouard
+    alias: Grenier, Edouard
+    birthdate: 1819
+    deathdate: 1901
+    gutenberg_agent_id: '7431'
+    url: http://www.gutenberg.org/2009/agents/7431
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17509'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 18th century'
+- !lcsh 'Epic poetry'
+title: Le renard
+url: http://www.gutenberg.org/ebooks/17509
